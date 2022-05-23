@@ -19,6 +19,4 @@
     else{
         ajouter_un_vote_blanc();
     }
-
-
 ?>
